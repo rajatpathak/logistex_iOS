@@ -1,0 +1,138 @@
+/**
+ *
+ *@copyright : ToXSL Technologies Pvt. Ltd. < www.toxsl.com >
+ *@author     : Shiv Charan Panjeta < shiv@toxsl.com >
+ *
+ * All Rights Reserved.
+ * Proprietary and confidential :  All information contained herein is, and remains
+ * the property of ToXSL Technologies Pvt. Ltd. and its partners.
+ * Unauthorized copying of this file, via any medium is strictly prohibited.
+ */
+
+
+"aboutUs" = "Acerca de";
+"privacyPolicy" = "Políticas de Privacidad";
+"termsCondition" = "Términos y Condiciones";
+"orders" = "Todas las Ordenes";
+"assign" = "Asignando";
+"driverAssign" = "Conductor Asignado";
+"going" = "En Marcha";
+"complete" = "Completado";
+"cancelled" = "Cancelado";
+"home" = "Home";
+"FAQs" = "Preguntas frecuentes";
+"myBooking" = "Mis Reservas";
+"bookingAmountRequest" = "Solicitud de importe de reserva";
+"manageDriver" = "Gestionar Conductores";
+"enterAddress" = "Ingresa la direccion";
+"notifications" = "Notificaciones";
+"contactUs" = "Contáctanos";
+"userGuide" = "Guía de Usuario";
+"loggedOut" = "Salir";
+"login" = "Ingresar";
+"pickup" = "Recogida:";
+"drop" = "Entregar:";
+"noReceipt" = "No hay recibo disponible";
+"vehicleNo" = "Lámina:-";
+"vehicleColor" = "Color:-"; //new
+"vehicleBrand" = "Marca del vehículo:-"; // new
+"contactNo" = "Contacto:-";
+"noReceipt" = "No hay recibo disponible";
+"bookingCompleted" = "Reserva completada";
+"driverMoving" = "El conductor se está moviendo";
+"assignShortly" = "Asignación de conductor en breve";
+"paymentPending" = "Pago pendiente"; // new
+
+"packagePicked" = "Paquete Recogido";
+"notAvailable" = "Los detalles del controlador no están disponibles";
+"amount" = "Monto :";
+"orderID" = "Orden Id";
+"orderNo" = "Orden No:";
+"onTheWay" = "el conductor esta en camino a recoger la orden.";
+"pickedUp" = "El conductor a recogido el paquete exitosamente y se dirige hacia el lugar de entrega.";
+"dropOffLocation" = "Destino";
+"time" = "Hora :";
+"distance" = "Distancia :";
+"minute" = "minutos";
+"driverName" = "Nombre del conductor:-";
+"pickupLocation" = "Lugar de recogida";
+"bookingDeleted" = "Reserva eliminada";
+"bookingCancelled" = "Reserva Cancelada";
+"rated" = "Calificado";
+"giveRating" = "Calificar";
+"dropAt" = "Destino";
+"pickUpAt" = "Recoger en";
+"mile" = "Millas";
+"imageLimit" = "Solo puedes subir hasta 5 imágenes";
+"selectPickLocation" = "Por favor seleccione la ubicación de recogida";
+"selectDestLocation" = "Por favor seleccione el destino";
+"enterDesc" = "Por favor introduzca descripcion";
+"selectDate" = "Por favor seleccione la fecha";
+"selectTime" = "Por favor seleccione la hora";
+"unbanDriver" = "Por favor desbloquear para marcar conductor como favorito";
+"unbanFavDriver" = "Por favor quitar conductor de favorito para bloquear";
+"enterEmail" = "Por Favor Introduzca correo electrónico";
+"enterPassword" = "Por Favor Introduzca Contraseña";
+"chooseProfile" = "Por favor seleccione Imagen de Perfil";
+"enterFirstName" = "Por Favor Introduzca Nombre";
+"enterLastName" = "Por Favor Introduzca Apellido";
+"enterValidEmail" = "or favor introduzca correo electrónico valido";
+"enterPasswordLimit" = "La contraseña debe tener un mínimo de 8 caracteres.";
+"enterVaildPhoneNo" = "Su numero de celular debe contener al menos 5 digitos";
+"enterConfirmPassword" = "Por Favor Introduzca Confirmar Contraseña";
+"loginSuccess" = "Iniciar sesión correctamente";
+"notMatch" = "La contraseña no coincide";
+"enterMobileNumber" = "Por Favor Introduzca No. Celular";
+"selectVehicleCategory" = "Por favor seleccione Categoría de Vehículo";
+"acceptTermsCondition" = "Por Favor Acepte Nuestros Términos y condiciones";
+"loginSuccess" = "Inicio de sesión exitosa";
+"resetPassword" = "Por favor revise su correo electrónico para restablecer su contraseña";
+"enterFullName" = "Por Favor Introduzca Nombre Completo";
+"enterValidCardHolderName" = "Ingrese un nombre válido del titular de la tarjeta";
+"enterCardHolderName" = "Ingrese el nombre del titular de la tarjeta";
+"enterSenderName" = "Ingrese el nombre del remitente"; // new
+"uploadPaymentScreenshot" = "Cargue la captura de pantalla del pago"; //new
+
+
+"enterValidFullName" = "Ingrese un nombre completo válido";
+"cardNumber" = "Ingrese el número de tarjeta";
+"cardNumberValid" = "Ingrese un número de tarjeta válido";
+"expiryYearValid" = "Ingrese el mes y año de vencimiento de la tarjeta válida";
+"expiryYear" = "Ingrese el mes y año de vencimiento de la tarjeta";
+"CVV" = "Ingrese CVV";
+"cvvValid" = "Ingrese un CVV válido";
+"cardDetailsInCorrect" = "Los datos de la tarjeta no son correctos";
+"chooseReason" = "Por Favor Seleccionar Razón";
+"enterReason" = "Por Favor Introduzca la respuesta de la razón";
+"enquirySubmitted" = "Consulta enviada con éxito";
+"enterNewPassword" = "Por Favor Introduzca la Nueva contraseña";
+"passwordChange" = "Contraseña cambiada con éxito";
+"changeAmountAcceptSuccessfully" = "Solicitud de cambio de importe aceptada correctamente";
+"paymentDoneSuccess" = "Pago realizado con éxito";//new
+"paymentRequestApproval" = "La solicitud de pago se envía al administrador para su aprobación";
+"changeAmountRejectSuccessfully" = "Solicitud de cambio de importe rechazada correctamente";
+"acceptRequest" = "¿Está seguro de que desea aceptar la solicitud de cambio de monto?";
+"rejectRequest" = "¿Está seguro de que desea rechazar la solicitud de cambio de monto?";
+"verificationLink" = "El enlace de verificación se envía a su correo electrónico";
+"enterMessage" = "Introduzca su mensaje";
+"profileUpdated" = "Perfil actualizado exitosament";
+"updateIosVersion" = "Actualice la versión de iOS a 13.0";
+"addRating" = "Por favor agregue calificación";
+"addComment" = "Por favor agregue un comentario";
+"completeProfile" = "Por favor complete el perfil";
+"logout" = "¿Estás seguro, quieres cerrar sesión?";
+"logoutSuccess" = "Cerrar sesión correctamente";
+"cancel" = "Cancelar";
+"chooseCurrency" = "Por favor Seleccione Moneda";
+"selectCurrency" = "Seleccione Moneda";
+"addCurrency" = "Por favor añadir Moneda a su perfil.";
+"enterAmount" = "Por favor ingrese la cantidad";
+"cancelDriver" = "Conductor Cancelado";
+"setDropOffLocation" = "ESTABLECER UBICACIÓN PARA DEJAR";
+"SetPickupLocation" = "CONFIGURAR LUGAR DE RECOGIDA";
+"typeHere" = "Escriba aquí";
+"typeYourMessage" = "Escribe tu mensaje";
+
+
+
+

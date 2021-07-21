@@ -1,0 +1,630 @@
+
+/* Class = "UILabel"; text = "Account Number"; ObjectID = "0pH-P2-6ZP"; */
+"0pH-P2-6ZP.text" = "Account Number";
+
+/* Class = "UILabel"; text = "Service Rating"; ObjectID = "1Fh-na-dzr"; */
+"1Fh-na-dzr.text" = "Service Rating";
+
+/* Class = "UILabel"; text = "USD 400.00"; ObjectID = "1lO-We-mE1"; */
+"1lO-We-mE1.text" = "USD 400.00";
+
+/* Class = "UITextField"; placeholder = " Select a Country"; ObjectID = "21n-uf-zWW"; */
+"21n-uf-zWW.placeholder" = " Select a Country";
+
+/* Class = "UILabel"; text = "SORT BY"; ObjectID = "25B-hO-Zx5"; */
+"25B-hO-Zx5.text" = "SORT BY";
+
+/* Class = "UIButton"; normalTitle = "Distance"; ObjectID = "26N-2O-kb0"; */
+"26N-2O-kb0.normalTitle" = "Distance";
+
+/* Class = "UILabel"; text = "Earn money at anywhere on anytime. Lots of delivery waiting for you"; ObjectID = "2O3-md-QqW"; */
+"2O3-md-QqW.text" = "Earn money at anywhere on anytime. Lots of delivery waiting for you";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "2ap-X8-3gH"; */
+"2ap-X8-3gH.text" = "John Doe";
+
+/* Class = "UITextField"; placeholder = " Select a Country"; ObjectID = "36x-H6-Eai"; */
+"36x-H6-Eai.placeholder" = " Select a Country";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "37B-l4-fcT"; */
+"37B-l4-fcT.normalTitle" = "Yes";
+
+/* Class = "UILabel"; text = "Quality Rating"; ObjectID = "3S6-Ly-Enm"; */
+"3S6-Ly-Enm.text" = "Quality Rating";
+
+/* Class = "UILabel"; text = "Driver ID: 10"; ObjectID = "3TH-Ue-U9B"; */
+"3TH-Ue-U9B.text" = "Driver ID: 10";
+
+/* Class = "UILabel"; text = "My Earnings"; ObjectID = "3hi-c9-TBN"; */
+"3hi-c9-TBN.text" = "My Earnings";
+
+/* Class = "UIButton"; normalTitle = "LOG IN"; ObjectID = "3of-zw-4OB"; */
+"3of-zw-4OB.normalTitle" = "LOG IN";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "48d-ET-gY9"; */
+"48d-ET-gY9.text" = "2";
+
+/* Class = "UILabel"; text = "Bank of America"; ObjectID = "4HN-Yy-OxR"; */
+"4HN-Yy-OxR.text" = "Bank of America";
+
+/* Class = "UILabel"; text = "Contact Number"; ObjectID = "4Ik-Ft-BGL"; */
+"4Ik-Ft-BGL.text" = "Contact Number";
+
+/* Class = "UILabel"; text = "70 RM"; ObjectID = "4JG-Go-eoB"; */
+"4JG-Go-eoB.text" = "70 RM";
+
+/* Class = "UITextField"; placeholder = " Change Password"; ObjectID = "4kG-4c-2kw"; */
+"4kG-4c-2kw.placeholder" = " Change Password";
+
+/* Class = "UIButton"; normalTitle = "LOG IN"; ObjectID = "4uA-Xk-eTa"; */
+"4uA-Xk-eTa.normalTitle" = "LOG IN";
+
+/* Class = "UIButton"; normalTitle = "LOAD MONEY"; ObjectID = "5ue-wQ-3S2"; */
+"5ue-wQ-3S2.normalTitle" = "LOAD MONEY";
+
+/* Class = "UILabel"; text = "Drop Location"; ObjectID = "60g-gA-0qb"; */
+"60g-gA-0qb.text" = "Drop Location";
+
+/* Class = "UIButton"; normalTitle = "All"; ObjectID = "6Nu-iI-FMQ"; */
+"6Nu-iI-FMQ.normalTitle" = "All";
+
+/* Class = "UILabel"; text = "Order ID: 451245"; ObjectID = "6RT-ND-FTp"; */
+"6RT-ND-FTp.text" = "Order ID: 451245";
+
+/* Class = "UILabel"; text = "Forgot Password?"; ObjectID = "6dS-v2-RHe"; */
+"6dS-v2-RHe.text" = "Forgot Password?";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "7AI-xk-xMM"; */
+"7AI-xk-xMM.placeholder" = "Full Name";
+
+/* Class = "UILabel"; text = "Driver ID: 10"; ObjectID = "7Ab-pC-l0p"; */
+"7Ab-pC-l0p.text" = "Driver ID: 10";
+
+/* Class = "UITextField"; placeholder = "5000.00"; ObjectID = "7v0-Lb-GJt"; */
+"7v0-Lb-GJt.placeholder" = "5000.00";
+
+/* Class = "UILabel"; text = "Offline"; ObjectID = "8en-1m-mFU"; */
+"8en-1m-mFU.text" = "Offline";
+
+/* Class = "UILabel"; text = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada Ajit Singh Nagar, Punjab"; ObjectID = "9fT-Ro-v6B"; */
+"9fT-Ro-v6B.text" = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada Ajit Singh Nagar, Punjab";
+
+/* Class = "UILabel"; text = "21 July, 2020 10:24"; ObjectID = "9gV-iP-UfU"; */
+"9gV-iP-UfU.text" = "21 July, 2020 10:24";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "9ra-ze-Jpu"; */
+"9ra-ze-Jpu.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "9wg-sk-puH"; */
+"9wg-sk-puH.text" = "Change Password";
+
+/* Class = "UITextField"; placeholder = " New Password"; ObjectID = "9ye-HY-rvu"; */
+"9ye-HY-rvu.placeholder" = " New Password";
+
+/* Class = "UILabel"; text = "Customer Details"; ObjectID = "AX8-A1-QVn"; */
+"AX8-A1-QVn.text" = "Customer Details";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Ar7-NH-s3f"; */
+"Ar7-NH-s3f.text" = "Name";
+
+/* Class = "UILabel"; text = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada Ajit Singh Nagar, Punjab"; ObjectID = "BAk-bu-Vyr"; */
+"BAk-bu-Vyr.text" = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada Ajit Singh Nagar, Punjab";
+
+/* Class = "UILabel"; text = "Ratings"; ObjectID = "CvN-VL-KFt"; */
+"CvN-VL-KFt.text" = "Ratings";
+
+/* Class = "UILabel"; text = "Total Rides"; ObjectID = "Cxm-0c-x3c"; */
+"Cxm-0c-x3c.text" = "Total Rides";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "DMr-ks-IDZ"; */
+"DMr-ks-IDZ.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Order No :"; ObjectID = "DWg-An-cLg"; */
+"DWg-An-cLg.text" = "Order No :";
+
+/* Class = "UITextField"; placeholder = " License expiry date"; ObjectID = "FDT-8I-ZH2"; */
+"FDT-8I-ZH2.placeholder" = " License expiry date";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "FEe-Ra-EgZ"; */
+"FEe-Ra-EgZ.normalTitle" = "Forgot Password?";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "FRr-Wq-6JC"; */
+"FRr-Wq-6JC.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "FZw-ZD-Gdr"; */
+"FZw-ZD-Gdr.text" = "Contact Us";
+
+/* Class = "UILabel"; text = "Driver Details"; ObjectID = "GBf-eU-K3T"; */
+"GBf-eU-K3T.text" = "Driver Details";
+
+/* Class = "UILabel"; text = "Cash"; ObjectID = "Gdb-7y-HOS"; */
+"Gdb-7y-HOS.text" = "Cash";
+
+/* Class = "UILabel"; text = "400 RM"; ObjectID = "Gg5-XG-ipH"; */
+"Gg5-XG-ipH.text" = "400 RM";
+
+/* Class = "UITextField"; placeholder = "Vehicle plate number + image"; ObjectID = "ISl-jp-d9h"; */
+"ISl-jp-d9h.placeholder" = "Vehicle plate number + image";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "Iye-Pg-sOt"; */
+"Iye-Pg-sOt.text" = "Profile";
+
+/* Class = "UILabel"; text = "Terms and Conditions"; ObjectID = "Jg0-aq-xQK"; */
+"Jg0-aq-xQK.text" = "Terms and Conditions";
+
+/* Class = "UITextField"; placeholder = " Account Number"; ObjectID = "Juf-nR-RTA"; */
+"Juf-nR-RTA.placeholder" = " Account Number";
+
+/* Class = "UIButton"; normalTitle = "Paid"; ObjectID = "Jva-Z1-w9E"; */
+"Jva-Z1-w9E.normalTitle" = "Paid";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "KGh-ks-40L"; */
+"KGh-ks-40L.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Select a Country"; ObjectID = "KUo-FS-UcG"; */
+"KUo-FS-UcG.text" = "Select a Country";
+
+/* Class = "UILabel"; text = "License images"; ObjectID = "Kgt-G3-BGh"; */
+"Kgt-G3-BGh.text" = "License images";
+
+/* Class = "UILabel"; text = "23"; ObjectID = "L3C-tq-ggi"; */
+"L3C-tq-ggi.text" = "23";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "LB4-ey-C6d"; */
+"LB4-ey-C6d.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "ACCEPT"; ObjectID = "Ld4-Pm-rwy"; */
+"Ld4-Pm-rwy.normalTitle" = "ACCEPT";
+
+/* Class = "UILabel"; text = "Drop:"; ObjectID = "Lqd-h4-B4L"; */
+"Lqd-h4-B4L.text" = "Drop:";
+
+/* Class = "UILabel"; text = "Lorem Ipsum proin gravida"; ObjectID = "MOb-Tt-MxA"; */
+"MOb-Tt-MxA.text" = "Lorem Ipsum proin gravida";
+
+/* Class = "UIButton"; normalTitle = "GOT IT!"; ObjectID = "N3C-cT-BAc"; */
+"N3C-cT-BAc.normalTitle" = "GOT IT!";
+
+/* Class = "UILabel"; text = "127, mohali Bypass,phase 8"; ObjectID = "N5i-v0-P9X"; */
+"N5i-v0-P9X.text" = "127, mohali Bypass,phase 8";
+
+/* Class = "UITextField"; placeholder = " First Name"; ObjectID = "NCi-Te-CCg"; */
+"NCi-Te-CCg.placeholder" = " First Name";
+
+/* Class = "UILabel"; text = "Offline"; ObjectID = "NG1-ZC-SvJ"; */
+"NG1-ZC-SvJ.text" = "Offline";
+
+/* Class = "UILabel"; text = "Pick Up Location"; ObjectID = "NP6-0A-Hf4"; */
+"NP6-0A-Hf4.text" = "Pick Up Location";
+
+/* Class = "UIButton"; normalTitle = "Time"; ObjectID = "NQq-sx-qEU"; */
+"NQq-sx-qEU.normalTitle" = "Time";
+
+/* Class = "UILabel"; text = "10:40 AM"; ObjectID = "NQr-PY-gJV"; */
+"NQr-PY-gJV.text" = "10:40 AM";
+
+/* Class = "UIButton"; normalTitle = "Rate User"; ObjectID = "P0X-gV-IuR"; */
+"P0X-gV-IuR.normalTitle" = "Rate User";
+
+/* Class = "UIButton"; normalTitle = "View Details"; ObjectID = "P1z-9t-KtE"; */
+"P1z-9t-KtE.normalTitle" = "View Details";
+
+/* Class = "UILabel"; text = "Pick up:"; ObjectID = "PMX-bY-JQw"; */
+"PMX-bY-JQw.text" = "Pick up:";
+
+/* Class = "UILabel"; text = "Bank Code"; ObjectID = "PXq-zj-pSg"; */
+"PXq-zj-pSg.text" = "Bank Code";
+
+/* Class = "UILabel"; text = "~300 USD"; ObjectID = "PwJ-1c-LNI"; */
+"PwJ-1c-LNI.text" = "~300 USD";
+
+/* Class = "UILabel"; text = "Already have an Account?"; ObjectID = "Q4c-Is-xOc"; */
+"Q4c-Is-xOc.text" = "Already have an Account?";
+
+/* Class = "UITextField"; placeholder = " Insurance expiry date + image"; ObjectID = "Q8O-If-nT2"; */
+"Q8O-If-nT2.placeholder" = " Insurance expiry date + image";
+
+/* Class = "UILabel"; text = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada Ajit Singh Nagar, Punjab"; ObjectID = "QHa-Ui-QA6"; */
+"QHa-Ui-QA6.text" = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada Ajit Singh Nagar, Punjab";
+
+/* Class = "UILabel"; text = "Upload ID card"; ObjectID = "Qcs-VZ-ilU"; */
+"Qcs-VZ-ilU.text" = "Upload ID card";
+
+/* Class = "UIButton"; normalTitle = "Details"; ObjectID = "Qqh-Oq-3n2"; */
+"Qqh-Oq-3n2.normalTitle" = "Details";
+
+/* Class = "UILabel"; text = "Account Name"; ObjectID = "QvP-za-byu"; */
+"QvP-za-byu.text" = "Account Name";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "R6C-fX-ffO"; */
+"R6C-fX-ffO.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "10:40 AM"; ObjectID = "RMn-KX-D8i"; */
+"RMn-KX-D8i.text" = "10:40 AM";
+
+/* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "RPa-sb-jVI"; */
+"RPa-sb-jVI.normalTitle" = "SKIP";
+
+/* Class = "UITextField"; placeholder = " Email"; ObjectID = "RSt-nR-hZW"; */
+"RSt-nR-hZW.placeholder" = " Email";
+
+/* Class = "UITextField"; placeholder = "Registered Email"; ObjectID = "RoT-36-D5f"; */
+"RoT-36-D5f.placeholder" = "Registered Email";
+
+/* Class = "UIButton"; normalTitle = "Bank 1"; ObjectID = "SQ7-O0-gdK"; */
+"SQ7-O0-gdK.normalTitle" = "Bank 1";
+
+/* Class = "UILabel"; text = "Alert"; ObjectID = "SdE-XU-HHb"; */
+"SdE-XU-HHb.text" = "Alert";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "Sj3-Rw-Efx"; */
+"Sj3-Rw-Efx.normalTitle" = "No";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "T6e-0X-vnp"; */
+"T6e-0X-vnp.text" = "Balance";
+
+/* Class = "UITextField"; placeholder = " Email"; ObjectID = "Tef-e2-jew"; */
+"Tef-e2-jew.placeholder" = " Email";
+
+/* Class = "UILabel"; text = "Online"; ObjectID = "U5V-zO-s1y"; */
+"U5V-zO-s1y.text" = "Online";
+
+/* Class = "UILabel"; text = "John"; ObjectID = "UG3-JR-NBI"; */
+"UG3-JR-NBI.text" = "John";
+
+/* Class = "UITextField"; placeholder = " Add Bank Details"; ObjectID = "UGf-Q8-Z01"; */
+"UGf-Q8-Z01.placeholder" = " Add Bank Details";
+
+/* Class = "UILabel"; text = "My Bookings"; ObjectID = "UPY-k9-0Tt"; */
+"UPY-k9-0Tt.text" = "My Bookings";
+
+/* Class = "UILabel"; text = "Payment Method"; ObjectID = "UhU-9S-Pax"; */
+"UhU-9S-Pax.text" = "Payment Method";
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "Urj-Yl-xId"; */
+"Urj-Yl-xId.normalTitle" = "Clear";
+
+/* Class = "UILabel"; text = "XYZ123"; ObjectID = "Urx-4o-ap8"; */
+"Urx-4o-ap8.text" = "XYZ123";
+
+/* Class = "UILabel"; text = "Add bank Details"; ObjectID = "V0q-84-9IB"; */
+"V0q-84-9IB.text" = "Add bank Details";
+
+/* Class = "UITextField"; placeholder = " Last Name"; ObjectID = "V1q-mg-YvG"; */
+"V1q-mg-YvG.placeholder" = " Last Name";
+
+/* Class = "UITextField"; placeholder = " First Name"; ObjectID = "VN7-7o-4O5"; */
+"VN7-7o-4O5.placeholder" = " First Name";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "VPp-Jv-8ZM"; */
+"VPp-Jv-8ZM.text" = "Login";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "Vhz-4K-ceV"; */
+"Vhz-4K-ceV.text" = "Sign Up";
+
+/* Class = "UILabel"; text = "Are you sure you want  to Cash Out?"; ObjectID = "Vjj-3A-hwN"; */
+"Vjj-3A-hwN.text" = "Are you sure you want  to Cash Out?";
+
+/* Class = "UIButton"; normalTitle = "SEND"; ObjectID = "W02-pn-EY0"; */
+"W02-pn-EY0.normalTitle" = "SEND";
+
+/* Class = "UILabel"; text = "FILTER BY"; ObjectID = "W6E-DY-cTb"; */
+"W6E-DY-cTb.text" = "FILTER BY";
+
+/* Class = "UILabel"; text = "7988462319"; ObjectID = "WBJ-ZB-ayP"; */
+"WBJ-ZB-ayP.text" = "7988462319";
+
+/* Class = "UILabel"; text = "Cash Out Details"; ObjectID = "WDl-KZ-gxh"; */
+"WDl-KZ-gxh.text" = "Cash Out Details";
+
+/* Class = "UILabel"; text = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada Ajit Singh Nagar, Punjab"; ObjectID = "WVa-j3-fJb"; */
+"WVa-j3-fJb.text" = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada Ajit Singh Nagar, Punjab";
+
+/* Class = "UITextField"; placeholder = " Bank Code"; ObjectID = "WbX-u7-4Mm"; */
+"WbX-u7-4Mm.placeholder" = " Bank Code";
+
+/* Class = "UILabel"; text = "2020-06-23 18:15:04"; ObjectID = "WhO-BB-Hud"; */
+"WhO-BB-Hud.text" = "2020-06-23 18:15:04";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "WwS-mY-OEL"; */
+"WwS-mY-OEL.normalTitle" = "SIGN UP";
+
+/* Class = "UILabel"; text = "to Register!"; ObjectID = "X12-wy-qSs"; */
+"X12-wy-qSs.text" = "to Register!";
+
+/* Class = "UILabel"; text = "Order Details"; ObjectID = "XBD-qJ-oBt"; */
+"XBD-qJ-oBt.text" = "Order Details";
+
+/* Class = "UILabel"; text = "You have a new booking request"; ObjectID = "XVy-Qb-pZ7"; */
+"XVy-Qb-pZ7.text" = "You have a new booking request";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "XXN-89-FFg"; */
+"XXN-89-FFg.text" = "About Us";
+
+/* Class = "UIButton"; normalTitle = "17/05/2020"; ObjectID = "Xdn-4d-MuK"; */
+"Xdn-4d-MuK.normalTitle" = "17/05/2020";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "XhX-Dx-Dwg"; */
+"XhX-Dx-Dwg.text" = "Total";
+
+/* Class = "UILabel"; text = "10:30"; ObjectID = "YQO-Er-utc"; */
+"YQO-Er-utc.text" = "10:30";
+
+/* Class = "UIButton"; normalTitle = "ADD BANK"; ObjectID = "YSq-o6-mTJ"; */
+"YSq-o6-mTJ.normalTitle" = "ADD BANK";
+
+/* Class = "UILabel"; text = "2020-07-01 11:32:00"; ObjectID = "Yzt-k5-dTB"; */
+"Yzt-k5-dTB.text" = "2020-07-01 11:32:00";
+
+/* Class = "UILabel"; text = "Bank Name"; ObjectID = "Z4g-OY-vMv"; */
+"Z4g-OY-vMv.text" = "Bank Name";
+
+/* Class = "UILabel"; text = "Customer Average Rating"; ObjectID = "ZoE-Ys-nR2"; */
+"ZoE-Ys-nR2.text" = "Customer Average Rating";
+
+/* Class = "UILabel"; text = "Added to wallet from Am.."; ObjectID = "ZuN-ZV-ZzO"; */
+"ZuN-ZV-ZzO.text" = "Added to wallet from Am..";
+
+/* Class = "UILabel"; text = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada Ajit Singh Nagar, Punjab"; ObjectID = "aMi-sd-Grh"; */
+"aMi-sd-Grh.text" = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada Ajit Singh Nagar, Punjab";
+
+/* Class = "UILabel"; text = "Order ID: 8"; ObjectID = "aWJ-XB-EAo"; */
+"aWJ-XB-EAo.text" = "Order ID: 8";
+
+/* Class = "UILabel"; text = "Submit proof of road tax"; ObjectID = "ajl-ip-MbX"; */
+"ajl-ip-MbX.text" = "Submit proof of road tax";
+
+/* Class = "UILabel"; text = "Admin"; ObjectID = "axo-zD-XFg"; */
+"axo-zD-XFg.text" = "Admin";
+
+/* Class = "UITextField"; placeholder = " Account Name"; ObjectID = "bAp-tW-oE6"; */
+"bAp-tW-oE6.placeholder" = " Account Name";
+
+/* Class = "UILabel"; text = "Delivery Rating"; ObjectID = "bCM-Dy-rxp"; */
+"bCM-Dy-rxp.text" = "Delivery Rating";
+
+/* Class = "UILabel"; text = "Enter your registered email"; ObjectID = "bQh-fM-BKh"; */
+"bQh-fM-BKh.text" = "Enter your registered email";
+
+/* Class = "UITextField"; placeholder = " Bank Name"; ObjectID = "btq-gz-w91"; */
+"btq-gz-w91.placeholder" = " Bank Name";
+
+/* Class = "UIButton"; normalTitle = "Added"; ObjectID = "cCm-xA-ejv"; */
+"cCm-xA-ejv.normalTitle" = "Added";
+
+/* Class = "UILabel"; text = "Pick up Time"; ObjectID = "cV3-be-z4n"; */
+"cV3-be-z4n.text" = "Pick up Time";
+
+/* Class = "UITextField"; placeholder = " Select Category"; ObjectID = "cZz-pY-VnH"; */
+"cZz-pY-VnH.placeholder" = " Select Category";
+
+/* Class = "UITextField"; placeholder = "Select Reason"; ObjectID = "caF-Ga-2ac"; */
+"caF-Ga-2ac.placeholder" = "Select Reason";
+
+/* Class = "UILabel"; text = "Order No: 5"; ObjectID = "d34-9c-eVE"; */
+"d34-9c-eVE.text" = "Order No: 5";
+
+/* Class = "UILabel"; text = "21 July, 2020 10:24"; ObjectID = "d7Y-Gs-YLQ"; */
+"d7Y-Gs-YLQ.text" = "21 July, 2020 10:24";
+
+/* Class = "UILabel"; text = "Congratulations"; ObjectID = "dFP-OH-u5g"; */
+"dFP-OH-u5g.text" = "Congratulations";
+
+/* Class = "UILabel"; text = "Special Instructions"; ObjectID = "dKc-W7-X0o"; */
+"dKc-W7-X0o.text" = "Special Instructions";
+
+/* Class = "UIButton"; normalTitle = "Today"; ObjectID = "eA3-8w-XGn"; */
+"eA3-8w-XGn.normalTitle" = "Today";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "enZ-qG-LmI"; */
+"enZ-qG-LmI.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "Submit proof of road tax"; ObjectID = "fCW-c0-fvB"; */
+"fCW-c0-fvB.text" = "Submit proof of road tax";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "faI-3k-EuU"; */
+"faI-3k-EuU.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Online"; ObjectID = "fgI-Hl-ipf"; */
+"fgI-Hl-ipf.text" = "Online";
+
+/* Class = "UITextField"; placeholder = " Mobile Number"; ObjectID = "fhM-Ui-Hyj"; */
+"fhM-Ui-Hyj.placeholder" = " Mobile Number";
+
+/* Class = "UILabel"; text = "Pick up Date"; ObjectID = "fzp-CL-jDT"; */
+"fzp-CL-jDT.text" = "Pick up Date";
+
+/* Class = "UILabel"; text = "Pickup Time : 10:00 A.M., 10 july 2019"; ObjectID = "gW5-3B-dVr"; */
+"gW5-3B-dVr.text" = "Pickup Time : 10:00 A.M., 10 july 2019";
+
+/* Class = "UIButton"; normalTitle = "Later"; ObjectID = "gZs-cM-Jsp"; */
+"gZs-cM-Jsp.normalTitle" = "Later";
+
+/* Class = "UITextField"; placeholder = "Registered Email"; ObjectID = "gqM-PM-2ZP"; */
+"gqM-PM-2ZP.placeholder" = "Registered Email";
+
+/* Class = "UIButton"; normalTitle = "RM 3082.0"; ObjectID = "hf3-Gg-U0V"; */
+"hf3-Gg-U0V.normalTitle" = "RM 3082.0";
+
+/* Class = "UILabel"; text = "123/569"; ObjectID = "iLX-8b-Y69"; */
+"iLX-8b-Y69.text" = "123/569";
+
+/* Class = "UILabel"; text = "23/06/2020 06:15 PM"; ObjectID = "iPm-Rk-5uv"; */
+"iPm-Rk-5uv.text" = "23/06/2020 06:15 PM";
+
+/* Class = "UITextField"; placeholder = " Confirm Password"; ObjectID = "iUP-gH-zQ6"; */
+"iUP-gH-zQ6.placeholder" = " Confirm Password";
+
+/* Class = "UILabel"; text = "New User!"; ObjectID = "iri-rO-Q1d"; */
+"iri-rO-Q1d.text" = "New User!";
+
+/* Class = "UILabel"; text = "Delivery Status : Delivered"; ObjectID = "ism-bk-OEn"; */
+"ism-bk-OEn.text" = "Delivery Status : Delivered";
+
+/* Class = "UILabel"; text = "Delivery time-"; ObjectID = "j4m-su-cL0"; */
+"j4m-su-cL0.text" = "Delivery time-";
+
+/* Class = "UIButton"; normalTitle = "Remember me"; ObjectID = "jY1-9J-PcS"; */
+"jY1-9J-PcS.normalTitle" = "Remember me";
+
+/* Class = "UIButton"; normalTitle = "2020-06-30"; ObjectID = "jd3-fT-bP3"; */
+"jd3-fT-bP3.normalTitle" = "2020-06-30";
+
+/* Class = "UILabel"; text = "ID Card"; ObjectID = "kLK-Pd-YE4"; */
+"kLK-Pd-YE4.text" = "ID Card";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "kds-EY-9xz"; */
+"kds-EY-9xz.text" = "Home";
+
+/* Class = "UITextField"; placeholder = "Search..."; ObjectID = "kkd-7W-BMA"; */
+"kkd-7W-BMA.placeholder" = "Search...";
+
+/* Class = "UILabel"; text = "Contact Name"; ObjectID = "kqj-pO-hbq"; */
+"kqj-pO-hbq.text" = "Contact Name";
+
+/* Class = "UILabel"; text = "Hi"; ObjectID = "l5t-bb-czQ"; */
+"l5t-bb-czQ.text" = "Hi";
+
+/* Class = "UILabel"; text = "Transaction History"; ObjectID = "mBq-cP-RRU"; */
+"mBq-cP-RRU.text" = "Transaction History";
+
+/* Class = "UILabel"; text = "My Wallet"; ObjectID = "mET-pV-LL0"; */
+"mET-pV-LL0.text" = "My Wallet";
+
+/* Class = "UILabel"; text = "Building/Block"; ObjectID = "mJn-Ts-A3O"; */
+"mJn-Ts-A3O.text" = "Building/Block";
+
+/* Class = "UILabel"; text = "Pick up Date and Tme"; ObjectID = "mPY-Zl-Dga"; */
+"mPY-Zl-Dga.text" = "Pick up Date and Tme";
+
+/* Class = "UIButton"; normalTitle = "CLICK HERE"; ObjectID = "nfS-T2-cew"; */
+"nfS-T2-cew.normalTitle" = "CLICK HERE";
+
+/* Class = "UILabel"; text = "Rate User"; ObjectID = "nx0-Zg-GSA"; */
+"nx0-Zg-GSA.text" = "Rate User";
+
+/* Class = "UITextField"; placeholder = " Insurance expiry date + image"; ObjectID = "nxa-Sj-bVw"; */
+"nxa-Sj-bVw.placeholder" = " Insurance expiry date + image";
+
+/* Class = "UIButton"; normalTitle = "All"; ObjectID = "o8e-gm-gTE"; */
+"o8e-gm-gTE.normalTitle" = "All";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "pYX-bj-DmP"; */
+"pYX-bj-DmP.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "pdF-lw-FDk"; */
+"pdF-lw-FDk.text" = "Notifications";
+
+/* Class = "UILabel"; text = "Driver ID: 10"; ObjectID = "psT-Dc-KvW"; */
+"psT-Dc-KvW.text" = "Driver ID: 10";
+
+/* Class = "UILabel"; text = "Please give feedback that you want to raise"; ObjectID = "q8A-Nk-jSw"; */
+"q8A-Nk-jSw.text" = "Please give feedback that you want to raise";
+
+/* Class = "UILabel"; text = "05/06/2020"; ObjectID = "qPJ-9N-Rju"; */
+"qPJ-9N-Rju.text" = "05/06/2020";
+
+/* Class = "UILabel"; text = "RM"; ObjectID = "qQ1-6D-c1U"; */
+"qQ1-6D-c1U.text" = "RM";
+
+/* Class = "UILabel"; text = "This is Photoshop's version of Lorem ipsum, Proin gravidaning vet velit auctor aliquet. Anenan sollicitudium, Lorem ipsum dolor sit amet sit amet."; ObjectID = "qyh-ao-Qee"; */
+"qyh-ao-Qee.text" = "This is Photoshop's version of Lorem ipsum, Proin gravidaning vet velit auctor aliquet. Anenan sollicitudium, Lorem ipsum dolor sit amet sit amet.";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "rAk-Jy-lSJ"; */
+"rAk-Jy-lSJ.text" = "Message";
+
+/* Class = "UITextField"; placeholder = " Enter vehicle plate number + image"; ObjectID = "rTS-A8-9Xo"; */
+"rTS-A8-9Xo.placeholder" = " Enter vehicle plate number + image";
+
+/* Class = "UILabel"; text = "Order Price  : $200"; ObjectID = "rba-Lx-7K6"; */
+"rba-Lx-7K6.text" = "Order Price  : $200";
+
+/* Class = "UILabel"; text = "1234567890"; ObjectID = "rmc-3F-5wb"; */
+"rmc-3F-5wb.text" = "1234567890";
+
+/* Class = "UIButton"; normalTitle = "CASH OUT"; ObjectID = "rrh-4X-epq"; */
+"rrh-4X-epq.normalTitle" = "CASH OUT";
+
+/* Class = "UILabel"; text = "FAQs"; ObjectID = "sCC-3n-ljp"; */
+"sCC-3n-ljp.text" = "FAQs";
+
+/* Class = "UILabel"; text = "24*7 Flexible Work Time"; ObjectID = "sSB-X3-KSA"; */
+"sSB-X3-KSA.text" = "24*7 Flexible Work Time";
+
+/* Class = "UITextField"; placeholder = " Confirm Password"; ObjectID = "so4-oC-1IG"; */
+"so4-oC-1IG.placeholder" = " Confirm Password";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "soQ-ml-3Ab"; */
+"soQ-ml-3Ab.text" = "OR";
+
+/* Class = "UITextField"; placeholder = " Vehicle Category"; ObjectID = "uAT-Cu-vuO"; */
+"uAT-Cu-vuO.placeholder" = " Vehicle Category";
+
+/* Class = "UILabel"; text = "Select Vehicle Category"; ObjectID = "uZw-sf-FFY"; */
+"uZw-sf-FFY.text" = "Select Vehicle Category";
+
+/* Class = "UILabel"; text = "127, mohali Bypass,phase 8"; ObjectID = "udS-ph-WQF"; */
+"udS-ph-WQF.text" = "127, mohali Bypass,phase 8";
+
+/* Class = "UIButton"; normalTitle = "Past Bookings"; ObjectID = "uuC-eN-Ofn"; */
+"uuC-eN-Ofn.normalTitle" = "Past Bookings";
+
+/* Class = "UILabel"; text = "Floor Number"; ObjectID = "vco-VY-qFZ"; */
+"vco-VY-qFZ.text" = "Floor Number";
+
+/* Class = "UIButton"; normalTitle = "PASS"; ObjectID = "wEb-rq-9qg"; */
+"wEb-rq-9qg.normalTitle" = "PASS";
+
+/* Class = "UILabel"; text = "hello"; ObjectID = "wS2-vm-8dc"; */
+"wS2-vm-8dc.text" = "hello";
+
+/* Class = "UILabel"; text = "I accept Terms & conditions"; ObjectID = "waF-np-qhV"; */
+"waF-np-qhV.text" = "I accept Terms & conditions";
+
+/* Class = "UITextField"; placeholder = " License expiry date"; ObjectID = "wdm-SZ-wSa"; */
+"wdm-SZ-wSa.placeholder" = " License expiry date";
+
+/* Class = "UILabel"; text = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada Ajit Singh Nagar, Punjab"; ObjectID = "wgJ-Er-sg2"; */
+"wgJ-Er-sg2.text" = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada Ajit Singh Nagar, Punjab";
+
+/* Class = "UITextField"; placeholder = " Last Name"; ObjectID = "wqh-0I-Whv"; */
+"wqh-0I-Whv.placeholder" = " Last Name";
+
+/* Class = "UILabel"; text = "Order is completed"; ObjectID = "xKN-kd-7wj"; */
+"xKN-kd-7wj.text" = "Order is completed";
+
+/* Class = "UIButton"; normalTitle = "Now"; ObjectID = "xQL-H9-5tf"; */
+"xQL-H9-5tf.normalTitle" = "Now";
+
+/* Class = "UILabel"; text = "Room Number"; ObjectID = "xVE-Qq-QVs"; */
+"xVE-Qq-QVs.text" = "Room Number";
+
+/* Class = "UILabel"; text = "Frequently Asked Questions"; ObjectID = "xVW-Pe-MhE"; */
+"xVW-Pe-MhE.text" = "Frequently Asked Questions";
+
+/* Class = "UILabel"; text = "Customer's Signature"; ObjectID = "yGa-wX-nwI"; */
+"yGa-wX-nwI.text" = "Customer's Signature";
+
+/* Class = "UILabel"; text = "Upload license images"; ObjectID = "yef-mw-oV6"; */
+"yef-mw-oV6.text" = "Upload license images";
+
+/* Class = "UILabel"; text = "Order No: 12"; ObjectID = "ykU-g4-PPN"; */
+"ykU-g4-PPN.text" = "Order No: 12";
+
+/* Class = "UITextField"; placeholder = " Mobile Number"; ObjectID = "z0u-tr-Wh6"; */
+"z0u-tr-Wh6.placeholder" = " Mobile Number";
+
+/* Class = "UIButton"; normalTitle = "Upcoming Bookings"; ObjectID = "z6G-M2-Xa4"; */
+"z6G-M2-Xa4.normalTitle" = "Upcoming Bookings";
+
+/* Class = "UILabel"; text = "Order Number-"; ObjectID = "zmc-8B-BAQ"; */
+"zmc-8B-BAQ.text" = "Order Number-";
+
+/* Class = "UIButton"; normalTitle = "START JOURNEY"; ObjectID = "zs1-05-gWa"; */
+"zs1-05-gWa.normalTitle" = "START JOURNEY";
+
+/* Class = "UITextField"; placeholder = " Password"; ObjectID = "zsL-11-ejd"; */
+"zsL-11-ejd.placeholder" = " Password";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "zzH-Cl-L1y"; */
+"zzH-Cl-L1y.normalTitle" = "SAVE";

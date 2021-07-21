@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Room Number"; ObjectID = "EZT-Ow-nAO"; */
+"EZT-Ow-nAO.text" = "Room Number";
+
+/* Class = "UILabel"; text = "Order ID:"; ObjectID = "Ghr-z4-vVh"; */
+"Ghr-z4-vVh.text" = "Order ID:";
+
+/* Class = "UILabel"; text = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada Ajit Singh Nagar, Punjab"; ObjectID = "JHd-xh-FQE"; */
+"JHd-xh-FQE.text" = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada Ajit Singh Nagar, Punjab";
+
+/* Class = "UILabel"; text = "Pick Up Order Details"; ObjectID = "L2O-N4-0E2"; */
+"L2O-N4-0E2.text" = "Pick Up Order Details";
+
+/* Class = "UILabel"; text = "Contact Name"; ObjectID = "Mr7-ih-teO"; */
+"Mr7-ih-teO.text" = "Contact Name";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "NFo-cF-2S2"; */
+"NFo-cF-2S2.text" = "N/A";
+
+/* Class = "UILabel"; text = "Building/Block"; ObjectID = "Prk-QA-Faj"; */
+"Prk-QA-Faj.text" = "Building/Block";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "Q8w-zn-aSz"; */
+"Q8w-zn-aSz.text" = "N/A";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "SJJ-29-dvC"; */
+"SJJ-29-dvC.text" = "N/A";
+
+/* Class = "UILabel"; text = "Floor Number"; ObjectID = "V9E-Pc-chu"; */
+"V9E-Pc-chu.text" = "Floor Number";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "avO-hx-Dqy"; */
+"avO-hx-Dqy.text" = "N/A";
+
+/* Class = "UILabel"; text = "Contact Number"; ObjectID = "ek4-pV-WjP"; */
+"ek4-pV-WjP.text" = "Contact Number";
+
+/* Class = "UILabel"; text = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada Ajit Singh Nagar, Punjab"; ObjectID = "oRu-xQ-gRc"; */
+"oRu-xQ-gRc.text" = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada Ajit Singh Nagar, Punjab";
+
+/* Class = "UILabel"; text = "DDDD"; ObjectID = "pHH-Oq-oY9"; */
+"pHH-Oq-oY9.text" = "DDDD";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "qwe-S6-EDb"; */
+"qwe-S6-EDb.text" = "N/A";
+
+/* Class = "UIButton"; normalTitle = "Go Back"; ObjectID = "qzi-SP-TKo"; */
+"qzi-SP-TKo.normalTitle" = "Go Back";
+
+/* Class = "UILabel"; text = "Special Instructions"; ObjectID = "zjd-WI-Kfw"; */
+"zjd-WI-Kfw.text" = "Special Instructions";

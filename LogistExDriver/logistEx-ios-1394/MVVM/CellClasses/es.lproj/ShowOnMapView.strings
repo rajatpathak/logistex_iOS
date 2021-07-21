@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "Go Back"; ObjectID = "A8b-OK-hP8"; */
+"A8b-OK-hP8.normalTitle" = "Regresa";
+
+/* Class = "UILabel"; text = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada "; ObjectID = "BWV-sU-not"; */
+"BWV-sU-not.text" = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada ";
+
+/* Class = "UILabel"; text = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada "; ObjectID = "L8K-Z6-NZa"; */
+"L8K-Z6-NZa.text" = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada ";
+
+/* Class = "UILabel"; text = "Time:-"; ObjectID = "LVl-vC-Rd2"; */
+"LVl-vC-Rd2.text" = "Time:-";
+
+/* Class = "UILabel"; text = "Order ID: 8"; ObjectID = "VXE-6E-jnw"; */
+"VXE-6E-jnw.text" = "Order ID: 8";
+
+/* Class = "UILabel"; text = "Distance:-"; ObjectID = "YXp-9i-LB7"; */
+"YXp-9i-LB7.text" = "Distance:-";
+
+/* Class = "UIButton"; normalTitle = "Mark Complete"; ObjectID = "oVv-3J-0sR"; */
+"oVv-3J-0sR.normalTitle" = "Marcar como completado";

@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Delivery time-"; ObjectID = "O4x-B2-GMf"; */
+"O4x-B2-GMf.text" = "El tiempo de entrega-";
+
+/* Class = "UILabel"; text = "Please give feedback that you want to raise"; ObjectID = "dQB-0N-tUX"; */
+"dQB-0N-tUX.text" = "Por favor, danos tu opinión que quieras plantear";
+
+/* Class = "UILabel"; text = "Order Number-"; ObjectID = "eyJ-Lb-FrV"; */
+"eyJ-Lb-FrV.text" = "Número de orden-";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "gH1-pa-bO9"; */
+"gH1-pa-bO9.normalTitle" = "ACEPTAR";

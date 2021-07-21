@@ -1,0 +1,139 @@
+/**
+ *
+ *@copyright : ToXSL Technologies Pvt. Ltd. < www.toxsl.com >
+ *@author     : Shiv Charan Panjeta < shiv@toxsl.com >
+ *
+ * All Rights Reserved.
+ * Proprietary and confidential :  All information contained herein is, and remains
+ * the property of ToXSL Technologies Pvt. Ltd. and its partners.
+ * Unauthorized copying of this file, via any medium is strictly prohibited.
+ */
+
+
+"aboutUs" = "About Us";
+"privacyPolicy" = "Privacy Policy";
+"termsCondition" = "Terms & Conditions";
+"orders" = "All Orders";
+"assign" = "Assigning";
+"driverAssign" = "Driver Assigned";
+"going" = "On-going";
+"complete" = "Completed";
+"cancelled" = "Cancelled";
+"home" = "Home";
+"FAQs" = "FAQs";
+"myBooking" = "My Bookings";
+"bookingAmountRequest" = "Booking Amount Request";
+"manageDriver" = "Manage Driver";
+"enterAddress" = "Enter Address";
+"notifications" = "Notifications";
+"contactUs" = "Contact Us";
+"userGuide" = "User Guide";
+"loggedOut" = "Log Out";
+"login" = "Login";
+"pickup" = "Pick up:";
+"pickupLocation" = "Pick Up Location";
+"drop" = "Drop:";
+"noReceipt" = "No Receipt available";
+"vehicleNo" = "Plate:-";
+"vehicleColor" = "Color:-"; //new
+"vehicleBrand" = "Vehicle Brand:-"; // new
+
+"serviceType" = "Service Type:-";
+"contactNo" = "Contact no:-";
+"bookingCompleted" = "Booking Completed";
+"driverMoving" = "Driver is moving";
+"packagePicked" = "Package Picked";
+"notAvailable" = "Driver details are not available";
+"assignShortly" = "Assigning driver shortly";
+"paymentPending" = "Payment Pending"; // new
+"amount" = "Amount :";
+"orderID" = "Order Id";
+"orderNo" = "Order No:";
+"onTheWay" = "The driver is on its way to pick up the order.";
+"pickedUp" = "The driver has picked up the order successfully and moving towards the drop location.";
+"dropOffLocation" = "Destination";
+"time" = "Time :";
+"distance" = "Distance :";
+"minute" = "min";
+"driverName" = "Driver Name:-";
+"bookingDeleted" = "Booking Deleted";
+"bookingCancelled" = "Booking Cancelled";
+"rated" = "Already Rated";
+"giveRating" = "Rate";
+"dropAt" = "Destination";
+"pickUpAt" = "Pickup at";
+"mile" = "miles";
+"imageLimit" = "You can upload upto 5 images only";
+"selectPickLocation" = "Please select pickup location";
+"selectDestLocation" = "Please select destination";
+"enterDesc" = "Please enter description";
+"selectDate" = "Please select date";
+"selectTime" = "Please select time";
+"unbanDriver" = "Please unbanned to mark driver favourite";
+"unbanFavDriver" = "Please unfavourite to mark driver banned";
+"enterEmail" = "Please enter the email address";
+"enterPassword" = "Please enter the password";
+"chooseProfile" = "Please select profile image";
+"enterFirstName" = "Please enter the first name";
+"enterLastName" = "Please enter the last name";
+"login" = "Login";
+"enterValidEmail" = "Please enter the valid email address";
+"enterPasswordLimit" = "Password should be minimum 8 characters";
+"enterVaildPhoneNo" = "Mobile number should contain at least 5 characters";
+"enterConfirmPassword" = "Please enter the confirm password";
+"loginSuccess" = "Login Successfully";
+"notMatch" = "Confirm password doesn't match";
+"enterMobileNumber" = "Please enter the mobile number";
+"selectVehicleCategory" = "Please select vehicle category";
+"chooseCountry" = "Please select country";
+"chooseLicense" = "Please upload the license";
+"acceptTermsCondition" = "Please accept our terms & conditions";
+"resetPassword" = "Please check your email to reset your password";
+"enterFullName" = "Please enter full name";
+"enterCardHolderName" = "Please enter card holder name";
+"enterSenderName" = "Please enter sender name";
+"uploadPaymentScreenshot" = "Please upload payment screenshot";
+
+"enterValidCardHolderName" = "Please enter valid card holder name";
+"enterValidFullName" = "Please enter valid full name";
+"cardNumber" = "Please enter card number";
+"cardNumberValid" = "Please enter valid card number";
+"expiryYear" = "Please enter card expiry month and year";
+"expiryYearValid" = "Please enter valid card expiry month and year";
+"CVV" = "Please enter CVV";
+"cvvValid" = "Please enter valid CVV";
+"cardDetailsInCorrect" = "Card details is not correct";
+"chooseReason" = "Please select reason";
+"enterReason" = "Please enter the answer of reason";
+"enquirySubmitted" = "Enquiry submitted successfully";
+"enterNewPassword" = "Please enter new password";
+"passwordChange" = "Password changed successfully";
+"changeAmountAcceptSuccessfully" = "Change amount request accepted successfully";
+"paymentDoneSuccess" = "Payment done successfully";
+"paymentRequestApproval" = "Payment request is send to admin for approval";
+"changeAmountRejectSuccessfully" = "Change amount request rejected successfully";
+"acceptRequest" = "Are you sure, you want to accept change amount request?";
+"rejectRequest" = "Are you sure, you want to reject change amount request?";
+"verificationLink" = "Verification link is sent to your email";
+"enterMessage" = "Message can't be empty";
+"profileUpdated" = "Profile updated successfully";
+"updateIosVersion" = "Please update iOS version to 13.0";
+"addRating" = "Please add rating";
+"addComment" = "Please add comment";
+"completeProfile" = "Please complete profile";
+"logout" = "Are you sure, you want to logout?";
+"logoutSuccess" = "Logout successfully";
+"cancel" = "Cancel";
+"chooseCurrency" = "Please select currency";
+"selectCurrency" = "Select Currency";
+"addCurrency" = "Please add currency to your profile.";
+"enterAmount" = "Please enter amount";
+
+"cancelDriver" = "Driver Cancelled";
+"setDropOffLocation" = "SET DROP OFF LOCATION";
+"SetPickupLocation" = "SET PICK UP LOCATION";
+"typeHere" = "Type here";
+"typeYourMessage" = "Type your message";
+
+
+

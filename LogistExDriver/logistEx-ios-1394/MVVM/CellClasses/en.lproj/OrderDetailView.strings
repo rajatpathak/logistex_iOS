@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "Instructions"; ObjectID = "4UG-Qf-Zs6"; */
+"4UG-Qf-Zs6.normalTitle" = "Instructions";
+
+/* Class = "UIButton"; normalTitle = "All requests"; ObjectID = "Fk6-Lu-ywd"; */
+"Fk6-Lu-ywd.normalTitle" = "All requests";
+
+/* Class = "UILabel"; text = "Order ID: 8"; ObjectID = "Y0g-ZW-lxf"; */
+"Y0g-ZW-lxf.text" = "Order ID: 8";
+
+/* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "aEM-Pb-cE9"; */
+"aEM-Pb-cE9.normalTitle" = "SKIP";
+
+/* Class = "UILabel"; text = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada "; ObjectID = "hGF-4B-0wv"; */
+"hGF-4B-0wv.text" = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada ";
+
+/* Class = "UILabel"; text = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada "; ObjectID = "obu-pl-SNJ"; */
+"obu-pl-SNJ.text" = "127, mohali Bypass,phase 8, Industrail area, sector 73, sahibzada ";
+
+/* Class = "UIButton"; normalTitle = "ACCEPT"; ObjectID = "xKM-sc-Jjp"; */
+"xKM-sc-Jjp.normalTitle" = "ACCEPT";

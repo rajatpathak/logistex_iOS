@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Cash to be Collected: RM 5.0"; ObjectID = "S7I-7d-Tf4"; */
+"S7I-7d-Tf4.text" = "Cash to be Collected: RM 5.0";
+
+/* Class = "UILabel"; text = "Order ID: 8"; ObjectID = "u8I-l3-PBh"; */
+"u8I-l3-PBh.text" = "Order ID: 8";
+
+/* Class = "UIButton"; normalTitle = "GOT IT!"; ObjectID = "uUd-9k-GBi"; */
+"uUd-9k-GBi.normalTitle" = "GOT IT!";
+
+/* Class = "UILabel"; text = "Service Completed!"; ObjectID = "wIl-hh-Ssa"; */
+"wIl-hh-Ssa.text" = "Service Completed!";

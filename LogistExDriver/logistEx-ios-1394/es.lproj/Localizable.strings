@@ -1,0 +1,180 @@
+/**
+*
+*@copyright : ToXSL Technologies Pvt. Ltd. < www.toxsl.com >
+*@author     : Shiv Charan Panjeta < shiv@toxsl.com >
+*
+* All Rights Reserved.
+* Proprietary and confidential :  All information contained herein is, and remains
+* the property of ToXSL Technologies Pvt. Ltd. and its partners.
+* Unauthorized copying of this file, via any medium is strictly prohibited.
+*/
+
+
+"login" = "Iniciar sesion";
+"remember" = "Recuérdame";
+"forgot" = "¿Olvido su contraseña?";
+"newUser" = "Nuevo Usuario!";
+"clickHere" = "CLICK HERE";
+"toRegister" = "Para Registrar!";
+"registeredEmail" = "Correo electrónico registrado";
+"password" = "Contraseña";
+"skip" = "OMITIR";
+"enterRegisterEmail" = "Introduzca el Correo electrónico registrado";
+"send" = "Enviar";
+"signup" = "Regístrate";
+"firstName" = "Nombre de pila";
+"lastName" = "Apellido";
+"email" = "Correo Electrónico";
+"confirmPassword" = "Confirmar Contraseña";
+"mobileNo" = "Celular";
+"selectCat" = "Seleccione Categoría";
+"selectCountry" = "seleccione un país";
+"uploadLicense" = "Cargar Imagenes de Licencia";
+"licenseExpDate" = "Expiración de la licencia";
+"vehiclePlate" = "Introduzca Numero de Placa + Imagen";
+"roadTax" = "Cargar Seguro del Vehículo";
+"uploadIdCard" = "Cargar identificación personal";
+"insuranceDate" = "Insurance expiry date + image";
+"accept" = "Acepto";
+"termsCondition" = "Términos y condiciones";
+"alreadyAccount" = "¿Ya tienes una cuenta?";
+"aboutUs" = "Acerca de";
+"contactUs" = "Contáctanos";
+"fullName" = "Nombre Completo";
+"selectReason" = "Seleccionar Razón";
+"message" = "Mensaje";
+"submit" = "Aceptar";
+"changePassword" = "Cambiar contraseña";
+"driverId" = "Conductor ID";
+"online" = " En Linea";
+"offline" = "Desconectado";
+"congratulation" = "Felicidades";
+"orderCompleted" = "La orden fue completada!";
+"gotIt" = "Entendido!";
+"myBooking" = "Mis Reservas";
+"upComing" = "Próximas reservas";
+"pastBooking" = "Reservas Anteriores";
+"viewDetails" = "Ver Detalles";
+"alreadyRated" = "Already Rated";
+"rateUser" = "Valorar usuario";
+"driverDetails" = "Conductor Detalles";
+"pickUpLocation" = "Ubicación de origen";
+"dropLocation" = "Ubicación de Destino";
+"paymentMethod" = "Métodos de pago";
+"ratings" = "Calificaciones";
+"custDetails" = "Cliente Detalles";
+"serviceRating" = "Calificación del servicio";
+"qualityRating" = "Calificación del Calidad";
+"deliveryRating" = "Calificación de la entrega";
+"custAvgRating" = "Calificación promedio del cliente";
+"accept" = "Aceptar";
+"pass" = "Pasar";
+"pickupDateTime" = "Fecha y Hora de Recogida";
+"sortBy" = "Ordenar por";
+"time" = "Tiempo";
+"distance" = "Distancia";
+"all" = "Todos";
+"now" = "Ahora";
+"today" = "Hoy";
+"later" = "Mas tarde";
+"notifications" = "Notificacionesions";
+"giveFeedback" = "Por Favor deje un comentario al cliente";
+"profile" = "Perfil";
+"newPassword" = "Nueva contraseña";
+"bankDetail" = "Agregar detalles bancarios";
+"bankName" = "Nombre del banco";
+"accountNo" = "Número de cuenta";
+"accountName" = "Nombre de la cuenta";
+"bankCode" = "Codigo bancario";
+"save" = "Guardar";
+"search" = "Buscar";
+"selectVehicleCat" = "Seleccione Categoría de Vehículo";
+"custSignature" = "Firma del cliente";
+"clear" = "Claro";
+"done" = "Hecho";
+"goBack" = "Regresa";
+"pickUpOrderDetail" = "Detalles Recogida de la orden";
+"roomNo" = "Apto.";
+"floorNo" = "Piso";
+"buildingBlock" = "Edificio/Bloque";
+"contactName" = "Nombre de Contacto";
+"contactNo" = "Numero de contacto";
+"instructions" = "Instrucciones Especiales";
+"orderCompleted" = "La orden fue completada!";
+"instructions" = "Instrucciones";
+"allRequests" = "Todas las Solicitudes";
+"viewOnMap" = "Ver en el Mapa";
+"details" = "Detalles";
+"pickUpDate" = "Fecha de Recogida";
+"pickUpTime" = "Hora de Recogida";
+"markComplete" = "Marcar como completado";
+"startJourney" = "COMENZAR VIAJE";
+"makeOrderPickup" = "Marcar como recogido";
+"earning" = "Mis Ganancias";
+"makeOrderComplete" = "Marcar como Completado";
+"dropOffDetail" = "Detalle del Destino";
+"enterEmail" = "Por Favor Introduzca correo electrónico";
+"enterPassword" = "Por Favor Introduzca Contraseña";
+"chooseProfile" = "Por favor seleccione Imagen de Perfil";
+"enterFirstName" = "Por Favor Introduzca Nombre";
+"enterAmount" = "Por favor ingrese la cantidad";
+"enterLastName" = "Por Favor Introduzca Apellido";
+"enterValidEmail" = "Por Favor Introduzca Correo electrónico valido";
+"enterPasswordLimit" = "La contraseña debe tener un mínimo de 8 caracteres.";
+"enterVaildPhoneNo" = "Su numero de celular debe contener al menos 5 digitos";
+"enterConfirmPassword" = "Por Favor Introduzca Confirmar Contraseña";
+"notMatch" = "La contraseña no coincide";
+"enterMobileNumber" = "Por Favor Introduzca No. Celular";
+"selectVehicleCategory" = "Por favor seleccione Categoría de Vehículo";
+"selectVehicleBrand" = "Seleccione la marca del vehículo"; //new string
+"selectVehicleColor" = "Seleccione el color del vehículo"; //new string
+"selectVehicleType" = "Seleccione el tipo de vehículo";
+"chooseCountry" = "Por favor seleccione país";
+"chooseLicense" = "Por favor cargar la imagen de su licencia";
+"enterLicenseExp" = "Por favor seleccione la fecha de vencimiento de la licencia";
+"enterInsuranceExp" = "Por favor seleccione la fecha de vencimiento del seguro";
+"enterVehicleNo" = "Por Favor Introduzca No. Placa";
+"chooseVehicleImg" = "Por Favor cargar Numero de Placa + Imagen";
+"selectInsuranceImg" = "Cargue la imagen de la fecha de vencimiento del seguro.";
+"chooseRoadTax" = "Por favor cargar imagen del seguro";
+"chooseIdCard" = "Por favor cargar identificación personal";
+"acceptTermsCondition" = "Por Favor Acepte Nuestros Términos y condiciones";
+"loginSuccess" = "Inicio de sesión exitosa";
+"applyChangeRequest" = "Solicitud de cambio de monto enviada con éxito";
+"canNotStartJourney" = "No puedes comenzar el viaje hasta que los cambios solicitados sean actualizados por parte del cliente";
+
+"resetPassword" = "Por favor revise su correo electrónico para restablecer su contraseña";
+"enterFullName" = "Por Favor Introduzca Nombre Completo";
+"chooseReason" = "Por Favor Seleccionar Razón";
+"enterReason" = "Por Favor Introduzca la respuesta de la razón";
+"enquirySubmitted" = "Consulta enviada con éxito";
+"enterNewPassword" = "Por Favor Introduzca la Nueva contraseña";
+"passwordChange" = "Contraseña cambiada con éxito";
+"acceptRequest" = "¿Estás seguro de que quieres aceptar la solicitud?";
+"rejectAmountConfrimation" = "¿Estás seguro de que deseas iniciar el viaje con la cantidad ofrecida?";
+"paymentIsPending" = "El pago está pendiente, ¿pedirle al usuario que libere el pago?"; // new
+"requestSentSuccesfully" = "Solicitud enviada con éxito"; //new
+
+
+"applyAmountChangeConfirmation" = "¿Está seguro de que desea aplicar los cambios de cantidad?";
+"declinedRequestConfirmation" = "¿Estás segura de que quieres rechazar la solicitud?";
+"reschudledRequestConfirmation" = "¿Estás segura, quieres reprogramar la solicitud?"; //new
+
+"verificationLink" = "Cuenta creada con éxito. Por favor, revisa tu e-mail para activar tu cuenta.";
+"enterMessage" = "Introduzca su mensaje";
+"profileUpdated" = "Perfil actualizado exitosament";
+"updateIosVersion" = "Actualice la versión de iOS a 13.0";
+"custSign" = "La firma del cliente es obligatoria";
+"addRating" = "Por favor agregue calificación";
+"addComment" = "Por favor agregue un comentario";
+"enterBankName" = "Por favor ingrese el nombre del banco";
+"enterAccountNo" = "Por favor ingrese el número de cuenta";
+"enterAccountName" = "Por favor ingrese el nombre poseedora de la  cuenta";
+"enterBankCode" = "Por favor, introduzca el código del banco";
+"completeProfile" = "Por favor complete el perfil";
+"logout" = "¿Estás seguro, quieres cerrar sesión?";
+"logoutSuccess" = "Cerrar sesión correctamente";
+"cancel" = "Cancelar";
+"cancelBooking" = "Esta Seguro que quiere\n retirar?";
+"cantChangeCountry" = "Esta actualmente en un viaje no puedo cambiar de país";
+
